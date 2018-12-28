@@ -1,6 +1,7 @@
 # Examplechain
 This Project is a realization of an example of the functionality of the blockchain technology.
 The used programming language is JAVA with the version 1.8.0_121.
+
 The aim of this project was to display in detail how a blockchain works and transfers value from one to another.
 The documentation is available in german. An english version will follow up.
 
